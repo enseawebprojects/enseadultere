@@ -1,0 +1,31 @@
+
+		h1 {
+			color:green;
+			padding:60px;
+			text-align:center;
+			background-color:black;
+			background: linear-gradient{to-bottom,yellow,red);
+			border:13px solid red;
+			display: box;
+			font-size: larger;
+			}
+		h3 {
+			background-color:black;
+			color:green;
+			margin:20px;
+			padding:20px;
+			display: box;
+		}
+		div.cities {
+    background-color:black;
+    color:white;
+    margin:20px;
+    padding:20px;
+} 
+		body {
+			 background-color: lightblue;
+			background-image:url("/users/link/edwifamb/Bureau/internet/fesse.jpeg");
+			}
+		p {
+			color:red;
+		}
